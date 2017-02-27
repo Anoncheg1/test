@@ -9,18 +9,18 @@ To get thread we utilize NEWNEWS command with date of replay.
 
 
 New format:
-'''
+```
 NEWNEWS wildmat UnixTime
-'''
+```
 Where UnixTime in seconds. Exaple:
-'''
+```
 NEWNEWS news,sci 1464210306
-'''
+```
 
 Old format supported:
-'''
+```
 NEWNEWS wildmat date time [GMT]
-'''
+```
 Parameters
  *    wildmat    Newsgroups of interest
  *    date       Date in yymmdd or yyyymmdd format
