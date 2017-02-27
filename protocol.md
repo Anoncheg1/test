@@ -12,7 +12,7 @@ New format:
 ```
 NEWNEWS wildmat UnixTime
 ```
-Where UnixTime in seconds. Exaple:
+Where UnixTime in seconds. Example:
 ```
 NEWNEWS news,sci 1464210306
 ```
